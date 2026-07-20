@@ -9,11 +9,11 @@
 </p>
 
 <p align="center">
-  Machine Learning • Computer Vision • Generative AI • MLOps
+   Machine Learning • Computer Vision • Generative AI • MLOps
 </p>
 
 <p align="center">
-  Building intelligent systems from research to production.
+  Building production-ready AI systems.
 </p>
 
 <p align="center">
@@ -25,7 +25,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="ali.fathy.ali20@gmail.com">
+  <a href="mailto:ali.fathy.ali20@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
@@ -47,67 +47,32 @@ I enjoy transforming research into practical, production-ready AI applications.
 
 ## Focus Areas
 
-| Machine Learning | Computer Vision |
-|------------------|-----------------|
-| Supervised Learning | Image Classification |
-| Unsupervised Learning | Object Detection |
-| Feature Engineering | Image Segmentation |
-| Model Evaluation | OCR |
-
-| Generative AI | MLOps |
-|---------------|--------|
-| LLM Applications | Model Deployment |
-| Prompt Engineering | Docker |
-| RAG | CI/CD |
-| AI Agents | Model Monitoring |
+| Domain | Expertise |
+|---------|-----------|
+| **Machine Learning** | Supervised Learning • Unsupervised Learning • Feature Engineering • Model Evaluation |
+| **Computer Vision** | Image Classification • Object Detection • Image Segmentation • Optical Character Recognition (OCR) |
+| **Generative AI** | Large Language Models (LLMs) • Prompt Engineering • Retrieval-Augmented Generation (RAG) • AI Agents |
+| **MLOps** | Model Deployment • Docker • CI/CD • Model Monitoring |
 
 ## Technologies
 
-### Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,docker,git,linux,aws,azure" />
 </p>
 
-### Machine Learning
-
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-</p>
-
-### Computer Vision
-
-<p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=opencv" />
-</p>
-
-### Data
-
-<p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,matplotlib" />
-</p>
-
-### MLOps
-
-<p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=docker,githubactions,git,linux" />
-</p>
-
-### Exploring
-
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp" />
+<p align="center">
+Machine Learning • Computer Vision • OpenCV • Scikit-learn • NumPy • Pandas • Matplotlib • GitHub Actions • MLflow
 </p>
 
 ## GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=alielbahrawy&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alielbahrawy&layout=compact&theme=transparent&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=alielbahrawy&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alielbahrawy&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=alielbahrawy&theme=transparent&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=alielbahrawy&theme=github_dark&hide_border=true" />
 </p>
 
 <p align="center">
@@ -124,4 +89,4 @@ I enjoy transforming research into practical, production-ready AI applications.
 
 ## Philosophy
 
-> Turning machine learning research into production-ready AI systems.
+> Designing intelligent systems that bridge AI research and real-world products.
